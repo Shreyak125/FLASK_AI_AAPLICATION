@@ -120,3 +120,12 @@ CHnages in you HTML code
 </body>
 
 
+ADD API key 
+    >install: pip install python-dotenv
+    >from dotenv import load_dotenv
+    >load_dotenv()
+    >Create .env file 
+    > add to this file GROQ_API_KEY=your_api_key
+
+
+
